@@ -108,3 +108,5 @@ All the requirements including bonus tasks are included with one exception: Kiba
 For exposing a service in k8s running in a private subnet, an ingress controller is required, and tagging the public subnets is also required so that the ingress controller can find the corresponding subnets.
 
 For more details on running AWS Load Balancer Controller, see my medium article [here](https://medium.com/devops-dudes/running-the-latest-aws-load-balancer-controller-in-your-aws-eks-cluster-9d59cdc1db98), installation doc [here](https://github.com/IronCore864/guotiexin.com/tree/master/step-3-external-dns-ingress-controller), and usage example [here](https://github.com/IronCore864/guotiexin.com/blob/master/others/argocd-ingress.yaml).
+
+Total time used including documentation: 1.5h.
